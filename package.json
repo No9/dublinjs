@@ -1,0 +1,10 @@
+{
+  "description": "See all my photos, but upside down! DublinJS",
+  "repository": {
+    "title": "Upside Down Photos For DublinJS",
+    "uses": {
+      "types": [ "photos" ],
+      "services": [ "facebook", "twitter", "foursquare", "instagram" ]
+    }
+  }
+}
